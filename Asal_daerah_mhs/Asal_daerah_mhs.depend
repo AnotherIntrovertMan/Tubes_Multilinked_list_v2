@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1537755314 source:d:\kumpulan tugas pendahuluan[std]\child tubes sem.3\jomblo linked list\asal_daerah_mhs\main.cpp
+	"header.h"
+
+1537754941 d:\kumpulan tugas pendahuluan[std]\child tubes sem.3\jomblo linked list\asal_daerah_mhs\header.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1537754941 source:d:\kumpulan tugas pendahuluan[std]\child tubes sem.3\jomblo linked list\asal_daerah_mhs\implementasi.cpp
+	"header.h"
+
+1543342841 source:d:\kumpulan tugas pendahuluan[std]\progress tubes std\sll\asal_daerah_mhs\implementasi.cpp
+	"header.h"
+
+1543342841 d:\kumpulan tugas pendahuluan[std]\progress tubes std\sll\asal_daerah_mhs\header.h
+	<iostream>
+
+1543342700 source:d:\kumpulan tugas pendahuluan[std]\progress tubes std\sll\asal_daerah_mhs\main.cpp
+	"header.h"
+	"headerMhs.h"
+	"relasi.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1543340976 source:d:\kumpulan tugas pendahuluan[std]\progress tubes std\sll\asal_daerah_mhs\implementasimhs.cpp
+	"headerMhs.h"
+
+1543340976 d:\kumpulan tugas pendahuluan[std]\progress tubes std\sll\asal_daerah_mhs\headermhs.h
+	<iostream>
+
+1543341307 source:d:\kumpulan tugas pendahuluan[std]\progress tubes std\sll\asal_daerah_mhs\imprelasi.cpp
+	"relasi.h"
+
+1543341307 d:\kumpulan tugas pendahuluan[std]\progress tubes std\sll\asal_daerah_mhs\relasi.h
+	<iostream>
+	"header.h"
+	"headerMhs.h"
+
+1543946033 source:d:\windows file\kumpulan tugas pendahuluan[std]\progress tubes std\sll\asal_daerah_mhs\implementasi.cpp
+	"header.h"
+
+1543946033 d:\windows file\kumpulan tugas pendahuluan[std]\progress tubes std\sll\asal_daerah_mhs\header.h
+	<iostream>
+
+1543941536 source:d:\windows file\kumpulan tugas pendahuluan[std]\progress tubes std\sll\asal_daerah_mhs\implementasimhs.cpp
+	"headerMhs.h"
+
+1543940829 d:\windows file\kumpulan tugas pendahuluan[std]\progress tubes std\sll\asal_daerah_mhs\headermhs.h
+	<iostream>
+
+1543947598 source:d:\windows file\kumpulan tugas pendahuluan[std]\progress tubes std\sll\asal_daerah_mhs\imprelasi.cpp
+	"relasi.h"
+
+1543947145 d:\windows file\kumpulan tugas pendahuluan[std]\progress tubes std\sll\asal_daerah_mhs\relasi.h
+	<iostream>
+	<stdlib.h>
+	"header.h"
+	"headerMhs.h"
+
+1543947197 source:d:\windows file\kumpulan tugas pendahuluan[std]\progress tubes std\sll\asal_daerah_mhs\main.cpp
+	"header.h"
+	"headerMhs.h"
+	"relasi.h"
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
